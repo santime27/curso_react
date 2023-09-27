@@ -1,0 +1,53 @@
+.separador{
+    position: absolute;
+    left: 690px;
+    top: 10px;
+    width: 7px;
+    height: 160%;
+    background-color: #BCBEBF  ;
+}
+
+.rectangulo_encabezado{
+    position: relative;
+    left: 1%;
+    right: 5%;
+    top: 10px;
+    width: 48%;
+    height: 10px;
+    background-color: #1E349E ;
+
+}
+.rectangulo_nombre{
+    position: relative;
+    left: 1%;
+    right: 5%;
+    width: 34%;
+    height: 50px;
+    background-color: #D3D9EC;
+}
+
+.nombre{
+    position: relative;
+    left: 0%;
+    font-family: 'Candara';
+
+}
+
+#titulo_informacion_contacto{
+    font-size: 20px;
+    position: relative;
+    left: 1%;
+}
+.informacion{
+    position: relative;
+    left: 1%;
+}
+
+.fotocv{
+    position: absolute;
+    left: 37%;
+    top: 20px;
+    width: 160px;
+    height: 200px;
+}
+

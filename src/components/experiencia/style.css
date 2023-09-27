@@ -1,0 +1,52 @@
+.experiencia{
+    position: absolute;
+    top: 15px;
+    left: 700px;
+    height: 700px;
+    width: 640px;
+}
+.experiencia_recuadro{
+    position: relative;
+    background-color: #D3D9EC;
+    left: 5px;
+    height: 50px;
+    width: 620px;
+
+}
+.experiencia_titulo{
+    position: relative;
+    font-size: 20px;
+    left: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    height: 100%; 
+}
+
+.experiencia_parrafo{
+    position: relative;
+    left: 5px;
+    font-family: 'Candara';
+}
+
+.lista_experiencia{
+    font-size: 13px;
+}
+
+.espaciador_horizontal{
+    position: absolute;
+    top: 450px;
+    left: 35px;
+    height: 4px;
+    width: 590px;
+    background-color: #1E349E;
+
+}
+
+.icono_experiencia{
+    position: absolute;
+    top: 0px;
+    left: 550px;
+    width: 50px;
+    height: 50px;
+}
